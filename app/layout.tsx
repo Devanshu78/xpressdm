@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     description:
       "Responsive pricing page built using Next.js, Tailwind CSS, and TypeScript from a Figma design.",
     type: "website",
-    url: "https://your-deployment-url.com",
+    url: "https://xpressdm.vercel.app/",
     siteName: "XpressDM Assignment",
   },
 };
